@@ -1,2 +1,3 @@
 # RegisterFormWithPhp
-Formulário para Registro usando PHP.
+Projeto simples de **Formulário de Registro** com PHP.
+
