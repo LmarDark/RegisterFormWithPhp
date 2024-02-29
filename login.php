@@ -1,7 +1,7 @@
 <?php
 include "env.php";
 	$class = new Env();
-	$class2 = $class->loginDB();
+	$class2 = $class->log_function();
 
 ?>
 
